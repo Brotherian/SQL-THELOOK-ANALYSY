@@ -1,7 +1,4 @@
 # SQL Basic JOIN Mini Project
-2
- 
-3
 ## 📖 Project Overview
 Mini Project ini bertujuan untuk mengimplementasikan konsep **SQL JOIN** dalam proses pengolahan dan analisis data. Melalui project ini, data yang berasal dari beberapa tabel akan digabungkan menggunakan berbagai jenis JOIN untuk menghasilkan informasi yang lebih komprehensif dan mendukung proses pengambilan keputusan berbasis data.
 
